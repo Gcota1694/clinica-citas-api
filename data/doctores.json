@@ -6,5 +6,21 @@
     "horarioInicio": "09:00",
     "horarioFin": "17:00",
     "diasDisponibles": ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
+  },
+  {
+    "id": "D002",
+    "nombre": "Dra. Ana López",
+    "especialidad": "Dermatología",
+    "horarioInicio": "10:00",
+    "horarioFin": "18:00",
+    "diasDisponibles": ["Martes", "Miércoles", "Jueves"]
+  },
+  {
+    "id": "D003",
+    "nombre": "Dr. Pedro Sánchez",
+    "especialidad": "Pediatría",
+    "horarioInicio": "08:00",
+    "horarioFin": "14:00",
+    "diasDisponibles": ["Lunes", "Miércoles", "Viernes"]
   }
 ]
