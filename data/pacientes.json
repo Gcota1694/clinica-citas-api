@@ -6,5 +6,21 @@
     "telefono": "555-0101",
     "email": "maria.g@email.com",
     "fechaRegistro": "2025-01-15"
+  },
+  {
+    "id": "P002",
+    "nombre": "Juan Pérez",
+    "edad": 28,
+    "telefono": "555-0102",
+    "email": "juan.perez@email.com",
+    "fechaRegistro": "2025-02-10"
+  },
+  {
+    "id": "P003",
+    "nombre": "Laura Ramírez",
+    "edad": 42,
+    "telefono": "555-0103",
+    "email": "laura.r@email.com",
+    "fechaRegistro": "2025-03-05"
   }
 ]
