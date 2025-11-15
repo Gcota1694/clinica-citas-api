@@ -22,7 +22,7 @@ Gabriel Alejo Cota Ruiz
 Xenia Padilla Madrid
 
 
-19 de octubre del 2025
+14 de noviembre del 2025
 
 Instrucciones de instalación
 1.	Clonar el repositorio:
